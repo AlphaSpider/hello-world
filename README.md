@@ -1,5 +1,6 @@
 # hello-world
 First Repository, made for the tutorial.
 
-What else can we add in here?
-Maybe nothing, so close the issue.
+Deleted the text, that was here befor. The old text was a bit to exciting.
+
+So we added this two lines instead.
